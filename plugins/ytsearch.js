@@ -1,5 +1,5 @@
 let limit = 60
-let yts = require('yt-search')
+let yts = require('ytsearch')
 let { servers, yta, ytv } = require('../lib/y2mate')
 
 let handler = async (m, { conn, command, text, isPrems, isOwner }) => {
