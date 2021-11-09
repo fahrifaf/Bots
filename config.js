@@ -69,7 +69,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'Alan Botz'
-global.author = 'SUBSCRIBE ALAN BOTZ'
+global.author = 'SUBSCRIBE ARIE TUBE'
 
 global.multiplier = 72366367263636 // The higher, The harder levelup
 
