@@ -38,7 +38,7 @@ MISAL DEPANNYA PAKE TANDA PETIK DI ATAS 1 (`) BERARTI DI AKHIRNYA HARUS DI TUTUP
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/BVeUWly2TH76VsA73WixDS']
 global.channelYT = ['https://youtube.com/channel/UCjfQUhw550WDZv31eJQaehw'] 
-global.owner = ['6288245009287']// Put your number here
+global.owner = ['62895320822472']// Put your number here
 global.mods = ['6288245009287'] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
