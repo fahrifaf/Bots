@@ -36,10 +36,10 @@ MISAL DEPANNYA PAKE TANDA PETIK DI ATAS 1 (`) BERARTI DI AKHIRNYA HARUS DI TUTUP
 ❗MAU BELI SCRIPT YANG NO ENC ? KE PM BAWA DANA, HARGA BISIK BISIK :V (6285718366706)
 ────────────────────────────────────────────────────────────────────────────────────────                                                                                                                                                                                                                                                                */
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['https://chat.whatsapp.com/BVeUWly2TH76VsA73WixDS']
-global.channelYT = ['https://youtube.com/channel/UCjfQUhw550WDZv31eJQaehw'] 
-global.owner = ['6288245009287']// Put your number here
-global.mods = ['6288245009287'] // Want some help?
+global.linkGC = ['']
+global.channelYT = ['https://youtube.com/channel/WindahBasudara'] 
+global.owner = ['62877851755350']// Put your number here
+global.mods = ['62877851755350'] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -68,8 +68,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Alan Botz'
-global.author = 'SUBSCRIBE ARIE TUBE'
+global.packname = 'FhBitz'
+global.author = 'FahriMd'
 
 global.multiplier = 72366367263636 // The higher, The harder levelup
 
